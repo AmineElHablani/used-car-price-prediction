@@ -1,8 +1,6 @@
 # used-car-price-prediction
 
-This repository contains a data science project focused on predicting the prices of used cars based on various features. The data and subject matter are part of DataCamp's Data Science Professional Certificate program. The project covers data discovery, preprocessing, exploratory data analysis (EDA), feature encoding, model training, and model optimization.
-
-Abstract
+## Abstract
 The project begins with data discovery and preprocessing to ensure data quality. Exploratory data analysis techniques such as ANOVA and correlation analysis provide insights into the relationships between car features and prices.
 
 Since the dataset includes categorical features, data encoding is performed to convert them into numerical features. The data is split into training and testing sets for model development. 
